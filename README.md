@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN stack developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushhh44&label=Profile%20views&color=0e75b6&style=flat" alt="aayushhh44" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=aayushhh44&label=Profile%20views&color=0e75b6&style=flat](https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=6c09b9526l9zinyqqglbl5xf3847f82obr7zpq1hjxi2weym&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="aayushhh44" /> </p>
 
 - 🌱 I’m currently learning **React**
 
