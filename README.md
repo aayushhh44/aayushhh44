@@ -19,10 +19,10 @@
 </p>
 
 🛠️ Technologies & Tools
-Frontend: React, Tailwind CSS, JavaScript
-Backend: Node.js, Express.js, MongoDB
-Blockchain: Ethereum, Web3.js, Ethers.js, Truffle, Hardhat
-Others: Git, GitHub
+<p>Frontend: React, Tailwind CSS, JavaScript</p>
+<p>Backend: Node.js, Express.js, MongoDB</p>
+<p>Blockchain: Ethereum, Web3.js, Ethers.js, Truffle, Hardhat</p>
+<p>Others: Git, GitHub</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushhh44&show_icons=true&locale=en&layout=compact" alt="aayushhh44" /></p>
 
