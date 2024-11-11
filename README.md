@@ -2,7 +2,7 @@
 
 Just a passionate React developer from Nepal 🇳🇵, with interests in Web3 and development!
 
-- 🔭 I’m currently focused on full-stack MERN projects that working on full-stack MERN projects that aim to create real value.
+- 🔭 I’m currently focused on full-stack MERN projects that aim to create real value.
 - 👯 I’m open to collaborating on innovative full-stack and Web3 projects.
 - 💬 Ask me about **React, Web3, and building real-world MERN applications**.
 
